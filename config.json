@@ -1,0 +1,9 @@
+{
+    "clientID": "Your ClientID",
+	"clientSecret": "Your ClientSecret",
+	"labelName": "label",
+	"redirectURL": "urn:ietf:wg:oauth:2.0:oob",
+	"pythonPath": "makecsv.py",
+	"regexPattern": "pattern",
+	"headers": ["header1", "header2"]
+}
